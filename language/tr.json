@@ -4,8 +4,8 @@
       "label": "Medya",
       "fields": [
         {
-          "label": "Tipi",
-          "description": "Soru üzerinde görüntülenecek isteğe bağlı medya."
+          "label": "Tür",
+          "description": "Sorunun üzerinde görüntülenecek isteğe bağlı medya."
         },
         {
           "label": "Soru görseli yakınlaştırmasını devre dışı bırakın"
@@ -117,12 +117,12 @@
       "label": "Onay kutucuğunu seçin",
       "fields": [
         {
-          "label": "Üstbaşlık Metni",
+          "label": "Başlık Metni",
           "default": "Bitir?"
         },
         {
           "label": "Gövde Metni",
-          "default": "Tamamlamak istediğinizden emin misiniz?"
+          "default": "Bitirmek istediğinizden emin misiniz?"
         },
         {
           "label": "İptal et düğmesi etiketi",
@@ -138,7 +138,7 @@
       "label": "Yeniden dene onay kutucuğu",
       "fields": [
         {
-          "label": "Üstbaşlık Metni",
+          "label": "Başlık Metni",
           "default": "Yeniden dene?"
         },
         {
